@@ -4,7 +4,8 @@ In this project, sprite images are generated using diffusion model.
 
 ## Acknowledgments
 
-Sprites by ElvGames, [FrootsnVeggies](https://zrghr.itch.io/froots-and-veggies-culinary-pixels) and [kyrise](https://kyrise.itch.io/).
+Dataset: ElvGames, [FrootsnVeggies](https://zrghr.itch.io/froots-and-veggies-culinary-pixels), [kyrise](https://kyrise.itch.io/), [Sprite Images Dataset](https://huggingface.co/datasets/ashis-palai/sprites_image_dataset/tree/main)
+
 
 This code is modified from [minDiffusion](https://github.com/cloneofsimo/minDiffusion).
 
