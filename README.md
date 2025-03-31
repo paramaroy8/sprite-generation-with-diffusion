@@ -1,6 +1,6 @@
 ## Project Description
 
-In this project, sprite images are generated using diffusion model.
+In this project, image-to-image generation has been implemented using diffusion model. The U-net architecture with context and time embeddings was used as the diffusion model. 16-by-16 Sprite images were used to train and evaluate the model. 
 
 ## Why Sprite Images Instead Of Real-life Images?
 
