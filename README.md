@@ -9,4 +9,4 @@ Dataset: ElvGames, [FrootsnVeggies](https://zrghr.itch.io/froots-and-veggies-cul
 
 This code is modified from [minDiffusion](https://github.com/cloneofsimo/minDiffusion).
 
-Diffusion model is based on [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) and [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502).
+Papers: [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) and [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502).
