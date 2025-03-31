@@ -4,7 +4,7 @@ In this project, sprite images are generated using diffusion model.
 
 ## Why Sprite Images Instead Of Real-life Images?
 
-Sprite images have reduced complexities compared to real-life images. As a result, this dataset is a less computationally expensive, making it a efficient for fast experimentation with different types of models and techniques.
+Sprite images have reduced complexities compared to real-life images. As a result, this dataset is less computationally expensive, making it a efficient for fast experimentation with different types of models and techniques.
 
 ## Acknowledgments
 
