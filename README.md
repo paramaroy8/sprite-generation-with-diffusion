@@ -14,6 +14,10 @@ In this project, I used 5 contexts.
 
 Contexts can be randomly generated, user defined or mixed.
 
+## Denoising Algorithm
+
+The denoising process implemented in this project is based on DDPM algorithm. Random noises were sampled, and then predicted noise were removed over timesteps to generate new image.
+
 ## Acknowledgments
 
 Dataset: [Sprite Images Dataset](https://huggingface.co/datasets/ashis-palai/sprites_image_dataset/tree/main)
