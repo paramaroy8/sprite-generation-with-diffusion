@@ -1,4 +1,4 @@
-## Project Description
+## Summary Description
 
 In this project, image-to-image generation has been implemented using diffusion model. The U-net architecture with context and time embeddings was used as the diffusion model. 16-by-16 Sprite images were used to train and evaluate the model. 
 
