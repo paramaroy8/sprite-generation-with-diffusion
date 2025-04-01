@@ -16,7 +16,7 @@ Contexts can be randomly generated, user defined or mixed.
 
 ## Denoising Algorithm
 
-The denoising process implemented in this project is based on DDPM algorithm. Random noises were sampled, and then predicted noise were removed over timesteps to generate new image.
+The denoising process implemented in this project is based on DDPM algorithm. Random noises were sampled, and then predicted noise were removed over timesteps to generate new images.
 
 ## Acknowledgments
 
